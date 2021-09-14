@@ -17,4 +17,14 @@ The .zip contains two .qzv files. These .qzv files are the results obtained from
 To explore the tree results, visit https://view.qiime2.org/ and drag and drop a .qzv file in the marked box. The tree layout, colors, and metadata information
 can all be interactively visualized with the menu on the right. For more information about EMPRESS visualization, please visit https://github.com/biocore/empress.
 
+## Feature classification counts
+Contains the CANOPUS classifications for each feature in the positive and negative ionization mode and a Jupyter Notebook used to build a feature table with classification counts (cutoff 1000).
+
+## Statistical analysis
+Contains an R script used to determine the statistically significant classes in POS and NEG, as well as two .rds files (POS and NEG) containing the feature table, the metadata information, and the CANOPUS classifications obtained.
+
+## Heatmaps
+Contains a CANOPUS classlist containing the statistically relevant classes, a Malpighiaceae phylogeny file, a feature table (cutoff1000) with the statistically significant classes, and a jupyter notebook for the heatmaps construction.
+
+## Formating tables for MLE - presence/absence
 
