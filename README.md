@@ -9,9 +9,12 @@ Manuscript in preparation.
 
 # Folders
 
-## Empress visualization files
-This folder contains a .zip with two .qzv files. These .qzv files are the results obtained from the chemical hierarchy analysis (Qemistree), which can be interactively explored in EMPRESS.
+## Qemistree
+This folder contains .qzv files for tree visualization, and the Jupyter Notebook for running Qemistree in Qiime2 plugin.
+
+##### Empress visualization
+The .zip contains two .qzv files. These .qzv files are the results obtained from the chemical hierarchy analysis (Qemistree), which can be interactively explored in EMPRESS.
 To explore the tree results, visit https://view.qiime2.org/ and drag and drop a .qzv file in the marked box. The tree layout, colors, and metadata information
-can all be interactively visualized with the right menu. For more information about EMPRESS visualization, please visit https://github.com/biocore/empress.
+can all be interactively visualized with the menu on the right. For more information about EMPRESS visualization, please visit https://github.com/biocore/empress.
 
 
