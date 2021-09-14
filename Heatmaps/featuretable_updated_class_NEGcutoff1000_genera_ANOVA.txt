@@ -1,0 +1,27 @@
+id	Acmanthera	Acridocarpus	Alicia	Amorimia	Aspicarpa	Banisteriopsis	Barnebya	Blepharandra	Bronwenia	Bunchosia	Burdachia	Byrsonima	Callaeum	Camarea	Carolus	Christianella	Diacidia	Dicella	Diplopterys	Ectopopterys	Galphimia	Gaudichaudia	Glicophyllum	Heladena	Heteropterys	Hiptage	Hiraea	Janusia	Malpighia	Mascagnia	Mcvaughia	Niedenzuella	Peixotoa	Ptilochaeta	Sphedamnocarpus	Stigmaphyllon	Tetrapterys	Thryallis	Verrucularina
+5'-deoxyribonucleosides	0	0	0	0	0	2	0	0	0	1	0	3	1	0	1	0	0	0	3	0	0	0	0	1	13	1	2	0	0	0	0	4	0	0	1	9	0	0	0
+Alkyl halides	1	4	13	13	2	41	1	3	5	9	2	45	9	1	1	0	2	0	7	1	2	3	46	0	79	2	7	7	3	2	0	70	51	15	5	250	36	7	15
+Allyl-type 1,3-dipolar organic compounds	2	0	1	0	0	4	1	0	1	0	0	8	1	0	0	0	0	0	1	0	0	0	6	1	12	0	2	1	2	0	0	16	10	3	1	51	6	2	3
+Azoles	1	2	4	9	2	31	1	1	3	2	0	12	5	2	3	0	1	2	2	1	0	2	24	0	43	2	5	4	3	4	0	27	20	8	3	124	19	4	9
+Benzimidazoles	0	1	2	0	0	2	0	2	2	2	0	10	2	0	0	0	0	0	2	0	0	0	11	0	9	0	0	0	0	0	0	13	8	3	1	44	7	1	2
+Benzofurans	0	0	1	0	0	2	0	0	1	0	0	5	1	0	0	0	0	0	1	0	0	0	6	0	6	0	0	0	0	0	0	8	7	2	1	35	5	1	2
+Diarylheptanoids	0	0	0	2	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	2	1	0	0	2	0	0	0	0	0	1	0
+Diazines	1	1	5	5	0	45	1	1	5	8	2	29	6	2	2	1	1	2	4	2	2	1	18	0	42	1	2	6	2	2	1	54	20	8	5	165	18	5	4
+Dithioles	1	1	3	5	1	14	1	2	1	4	0	2	1	0	0	0	0	0	1	0	0	0	6	0	21	1	2	2	2	2	0	10	7	2	1	35	5	1	2
+Fatty Acyls	65	37	211	287	46	1288	71	98	120	228	57	756	143	58	43	37	32	50	100	30	29	68	640	28	1621	53	218	288	116	127	47	1338	844	295	137	4765	563	116	183
+Heteroaromatic compounds	1	1	5	5	1	23	1	3	3	8	2	9	4	2	2	2	1	2	1	1	1	4	4	0	28	3	13	4	2	3	0	16	7	4	1	69	9	0	2
+Hydroxy acids and derivatives	0	0	8	1	2	28	2	3	2	3	2	17	4	2	0	1	1	1	4	1	0	2	16	1	41	2	2	8	3	3	1	41	31	6	3	166	11	5	2
+Imidazopyrimidines	2	0	5	9	1	30	0	1	1	5	0	10	2	3	2	2	1	4	5	1	1	3	5	2	16	1	0	6	2	4	0	16	3	0	0	42	0	0	0
+Imidolactams	0	0	1	3	1	7	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	1	1	0	0	1	0	0	0	0	0	0	0
+Isocoumarins and derivatives	0	0	0	2	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Isoindoles and derivatives	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Keto acids and derivatives	0	0	0	0	0	1	1	2	0	4	1	11	0	1	0	0	0	0	0	0	1	0	0	0	2	0	0	0	1	0	0	4	0	0	0	0	0	0	0
+Naphthalenes	3	1	2	6	1	18	0	1	1	2	0	6	1	2	1	0	0	0	1	1	1	0	2	1	16	1	4	2	1	2	0	7	1	2	0	14	1	0	0
+Organic phosphoric acids and derivatives	0	0	6	4	0	24	1	1	0	9	1	13	6	1	2	1	1	1	3	0	0	1	10	0	40	2	15	8	2	2	3	36	12	8	2	121	8	3	0
+Organic thiophosphoric acids and derivatives	0	0	0	0	0	8	1	3	0	5	1	20	0	1	1	0	0	0	1	0	0	0	0	0	7	0	4	3	0	0	2	7	0	0	0	1	0	0	0
+Oxocins	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	2	1	0	0	0	0	0	0	0	0	0
+Prenol lipids	31	16	68	67	17	446	23	43	53	96	39	400	56	17	25	13	10	15	35	10	12	19	243	7	467	9	68	101	28	23	18	459	282	77	48	1614	193	35	80
+Pyrrolidines	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	17	0	0	0
+Saccharolipids	2	2	13	19	4	57	1	4	8	12	4	45	8	2	2	1	3	7	5	2	1	8	38	4	80	1	9	14	6	6	1	82	36	9	9	252	35	5	10
+Tetrahydrofurans	0	0	1	0	0	1	0	0	0	0	1	6	0	0	0	0	1	0	1	0	0	0	1	0	10	0	2	0	0	0	0	5	2	0	0	22	1	1	0
+unclassified	26	17	80	85	21	499	16	38	48	102	31	329	57	13	13	10	9	20	56	7	7	29	240	12	625	7	92	127	48	43	17	553	325	99	53	1690	203	52	53

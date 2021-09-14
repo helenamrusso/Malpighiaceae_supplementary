@@ -1,0 +1,27 @@
+id	Acmanthera	Acridocarpus	Alicia	Amorimia	Aspicarpa	Banisteriopsis	Barnebya	Blepharandra	Bronwenia	Bunchosia	Burdachia	Byrsonima	Callaeum	Camarea	Carolus	Christianella	Diacidia	Dicella	Diplopterys	Ectopopterys	Galphimia	Gaudichaudia	Glicophyllum	Heladena	Heteropterys	Hiptage	Hiraea	Janusia	Malpighia	Mascagnia	Mcvaughia	Niedenzuella	Peixotoa	Ptilochaeta	Sphedamnocarpus	Stigmaphyllon	Tetrapterys	Thryallis	Verrucularina
+(5'->5')-dinucleotides	0	1	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	3	0	0	0	3	0	2
+Alkyl halides	17	6	29	39	6	194	8	15	7	21	5	100	15	14	6	4	9	11	20	12	8	11	55	8	242	8	45	40	18	20	11	140	73	18	8	409	42	9	13
+Allyl-type 1,3-dipolar organic compounds	18	7	20	29	9	248	7	10	7	30	7	75	20	19	7	7	7	9	30	8	7	17	54	6	240	10	58	66	21	14	14	166	63	16	11	382	34	15	12
+Azolidines	0	0	0	0	0	2	0	0	1	3	0	2	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0
+Benzene and substituted derivatives	504	173	529	1046	162	5437	170	335	152	692	202	2060	348	340	137	114	136	280	475	186	148	293	1100	136	4901	150	989	981	430	345	188	2783	1264	333	218	7038	788	246	300
+Benzimidazoles	4	2	7	13	2	60	2	4	1	5	1	14	3	1	1	2	0	3	5	0	1	2	8	2	37	1	5	9	4	4	0	25	12	4	1	66	2	2	2
+Biotin and derivatives	0	0	0	0	0	2	0	0	0	0	0	5	2	1	1	1	0	2	1	1	0	1	4	1	14	1	4	4	2	2	1	9	3	2	0	25	3	1	0
+Borinic acid derivatives	0	0	1	0	0	7	0	0	0	2	1	2	2	0	1	1	0	1	0	0	0	0	3	0	9	0	3	3	2	2	0	2	4	0	1	11	4	0	0
+Coumarins and derivatives	4	1	3	15	1	53	1	1	0	12	2	13	6	4	0	0	0	2	2	0	0	2	6	1	35	0	6	8	5	1	2	32	9	4	1	74	9	2	1
+Diazines	84	29	108	169	26	902	37	48	29	120	27	349	57	61	27	25	20	50	85	37	26	51	223	32	914	30	165	190	88	70	37	569	248	88	37	1369	147	35	60
+Fatty Acyls	115	43	121	272	53	1358	26	92	40	173	56	608	129	114	58	58	33	96	139	55	50	76	394	51	1534	48	330	332	118	139	70	958	444	151	55	2326	288	53	116
+Glycerophospholipids	1	0	2	3	1	23	0	1	0	3	1	10	0	2	0	0	1	1	1	1	0	3	6	1	21	2	7	5	2	0	0	17	6	2	1	33	6	0	3
+Heteroaromatic compounds	212	65	208	436	80	2111	60	92	78	245	73	771	142	131	44	70	50	112	169	73	58	104	436	59	1822	52	343	372	168	153	84	1055	550	176	77	2910	324	75	94
+Indoles and derivatives	0	0	1	1	1	6	0	0	0	1	0	2	0	1	0	2	0	1	0	0	0	0	5	1	18	1	3	3	1	0	0	12	0	3	2	12	7	1	0
+Lignan lactones	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+Macrolides and analogues	3	1	7	11	2	41	2	4	2	7	1	24	4	4	1	1	2	4	4	3	1	3	16	2	58	3	12	17	5	7	1	48	15	5	1	85	12	5	4
+Naphthopyrans	0	0	2	3	1	20	0	0	1	2	1	0	4	1	1	0	0	1	1	0	1	2	2	1	17	0	1	3	1	1	1	11	7	1	1	26	2	1	1
+Organic metal salts	23	10	22	48	5	232	2	13	10	23	11	112	19	23	13	10	7	22	31	11	8	15	77	13	281	8	66	68	25	22	13	166	96	24	16	459	55	10	20
+Organofluorides	1	0	3	2	0	16	1	4	2	1	1	11	0	0	0	0	0	0	4	1	1	1	3	0	8	0	1	1	3	0	1	5	3	0	0	6	1	0	0
+Phenols	2	1	3	11	0	50	0	0	3	5	2	19	1	2	0	0	1	1	9	2	0	1	4	2	24	2	10	5	3	3	3	19	15	3	1	29	2	0	2
+Purine nucleosides	3	3	10	8	3	67	3	4	3	11	3	19	5	4	0	0	0	2	3	1	1	4	4	1	39	1	4	9	3	2	2	19	10	2	0	56	5	2	4
+Purine nucleotides	8	4	3	14	2	94	3	5	6	11	4	63	3	1	1	3	1	3	8	1	3	3	12	1	57	1	16	8	6	4	4	26	15	3	4	79	10	2	7
+Quinolizines	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	1	1	0	0	0	1	1	1	4	0	0	0	1	0	0	0	0	0	0	6	2	1	0
+Steroids and steroid derivatives	36	11	32	83	14	350	14	24	12	35	13	156	24	22	15	13	9	25	43	8	13	12	93	14	347	15	62	89	26	23	10	241	98	27	8	481	75	15	38
+Tetrahydrofurans	3	0	2	3	1	14	0	2	1	2	1	10	2	2	0	0	1	2	2	1	0	1	2	0	18	1	5	5	2	2	1	11	6	1	1	28	4	1	1
+Thioethers	10	8	17	27	5	158	7	13	7	14	5	86	13	6	6	5	4	7	21	4	6	8	35	4	129	6	30	18	8	11	7	76	31	11	2	180	31	6	12
