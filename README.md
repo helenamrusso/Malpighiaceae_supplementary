@@ -10,7 +10,7 @@ Manuscript in preparation.
 # Folders
 
 ## Qemistree
-This folder contains .qzv files for tree visualization, and the Jupyter Notebook for running Qemistree in Qiime2 plugin.
+This folder contains .qzv files for tree visualization, and the Jupyter Notebook for running Qemistree in Qiime2 plugin (more information in https://github.com/biocore/q2-qemistree).
 
 ##### Empress visualization
 The .zip contains two .qzv files. These .qzv files are the results obtained from the chemical hierarchy analysis (Qemistree), which can be interactively explored in EMPRESS.
