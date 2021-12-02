@@ -1,0 +1,115 @@
+id	Acmanthera	Acridocarpus	Alicia	Amorimia	Aspicarpa	Banisteriopsis	Barnebya	Blepharandra	Bronwenia	Bunchosia	Burdachia	Byrsonima	Callaeum	Camarea	Carolus	Christianella	Diacidia	Dicella	Diplopterys	Ectopopterys	Galphimia	Gaudichaudia	Glicophyllum	Heladena	Heteropterys	Hiptage	Hiraea	Janusia	Malpighia	Mascagnia	Mcvaughia	Niedenzuella	Peixotoa	Ptilochaeta	Sphedamnocarpus	Stigmaphyllon	Tetrapterys	Thryallis	Verrucularina
+(3'->5')-dinucleotides and analogues	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+(5'->5')-dinucleotides	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	1	0	1
+2-arylbenzofuran flavonoids	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+5'-deoxyribonucleosides	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+Alkyl halides	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Allyl-type 1,3-dipolar organic compounds	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Anthracenes	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0
+Aryl halides	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Arylnaphthalene lignans	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Azacyclic compounds	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Azaphilones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Azoles	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Azolidines	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Benzene and substituted derivatives	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Benzimidazoles	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+Benzodioxoles	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+Benzofurans	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1
+Benzopyrans	0	1	0	1	1	0	0	1	1	0	0	1	1	0	1	0	1	1	1	1	0	1	1	0	0	0	0	1	0	0	1	1	1	1	1	1	1	1	1
+Benzothiadiazoles	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Benzothiazoles	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Biotin and derivatives	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
+Borinic acid derivatives	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	1	0	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	1	0	1	0	0
+Boronic acid derivatives	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Carboxylic acids and derivatives	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Cinnamic acids and derivatives	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Coumarins and derivatives	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Depsides and depsidones	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0
+Diarylheptanoids	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+Diazanaphthalenes	1	1	1	0	1	1	0	1	1	1	0	0	0	1	0	0	0	0	1	1	0	0	1	1	0	1	1	0	0	0	0	1	0	0	0	1	1	1	1
+Diazinanes	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Diazines	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Dibenzylbutane lignans	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0
+Dithioles	0	1	1	1	1	0	1	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1
+Fatty Acyls	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Flavonoids	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Furanoid lignans	0	1	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1
+Furans	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Glycerolipids	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Glycerophospholipids	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Halohydrins	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heteroaromatic compounds	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Hydroxy acids and derivatives	0	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
+Imidazopyrimidines	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Imidolactams	0	0	1	1	1	0	0	1	0	1	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Indoles and derivatives	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+Isocoumarins and derivatives	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Isoflavonoids	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	1	0	0	0	0
+Isoindoles and derivatives	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Keto acids and derivatives	0	0	0	0	0	0	1	1	0	1	1	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Lactams	0	1	0	0	1	0	1	1	1	1	1	1	1	0	0	1	1	0	0	0	0	0	1	0	0	0	0	1	0	1	1	0	0	1	1	0	0	0	1
+Lactones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Lignan glycosides	0	1	0	0	0	1	0	1	1	1	1	1	1	1	0	0	0	0	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
+Lignan lactones	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Linear 1,3-diarylpropanoids	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	1	0	1	0	1
+Macrolactams	1	0	1	0	0	0	0	1	1	1	0	0	1	1	0	0	1	0	1	0	1	1	1	1	0	0	0	0	0	1	0	0	1	1	1	0	1	1	1
+Macrolides and analogues	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Metalloheterocyclic compounds	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	1	1	1	0	1	0
+Naphthalenes	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+Naphthopyrans	0	0	1	1	1	1	0	0	1	1	1	0	1	1	1	0	0	1	0	0	1	1	0	1	1	0	0	0	1	1	1	1	1	1	1	1	0	1	1
+Organic carbonic acids and derivatives	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1
+Organic metal salts	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Organic phosphonic acids and derivatives	0	1	1	1	1	1	1	0	1	1	1	0	1	0	0	0	0	0	0	0	1	1	0	1	0	0	1	1	1	1	0	0	0	1	1	1	0	1	1
+Organic phosphoric acids and derivatives	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Organic sulfonic acids and derivatives	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Organic sulfuric acids and derivatives	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Organic thiophosphoric acids and derivatives	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	1
+Organochlorides	1	1	0	0	1	1	0	1	0	1	1	0	1	0	1	1	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0	1	1	0	1	1	0	1	1
+Organofluorides	0	0	1	0	0	0	1	1	1	0	1	1	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+Organonitrogen compounds	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Organooxygen compounds	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Organothiophosphorus compounds	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
+Oxacyclic compounds	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0
+Oxanes	1	1	0	1	1	1	0	1	0	1	1	0	1	0	1	1	0	0	0	1	1	0	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1
+Oxazinanes	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Oxepanes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oxocins	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+Peptidomimetics	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Phenanthrenes and derivatives	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Phenol ethers	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Phenols	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Phenylpropanoic acids	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Piperidines	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	1	0	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Prenol lipids	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Propargyl-type 1,3-dipolar organic compounds	1	1	1	1	0	1	0	0	1	1	0	0	1	1	1	1	0	1	0	1	0	0	1	0	0	0	1	0	0	1	1	1	1	1	1	1	0	1	0
+Pteridines and derivatives	0	1	1	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1
+Purine nucleosides	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Purine nucleotides	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Pyrans	1	1	1	1	1	1	0	1	0	1	0	1	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1
+Pyridines and derivatives	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Pyrimidine nucleosides	0	1	0	0	0	0	1	1	1	0	1	1	0	0	0	0	0	0	0	1	0	1	1	1	1	0	0	0	1	1	0	0	0	1	1	1	1	0	1
+Pyrimidine nucleotides	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Pyrroles	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pyrrolidines	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+Quinolines and derivatives	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Quinolizines	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+Saccharolipids	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Sphingolipids	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Steroids and steroid derivatives	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Stilbenes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sulfenyl compounds	0	0	0	1	0	0	0	1	0	0	0	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	0	1	0	0	0	1	1	0	1	0	1
+Sulfinyl compounds	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0
+Sulfonyls	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Sulfoxides	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tannins	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Tetrahydrofurans	1	0	1	1	1	0	0	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Tetrahydroisoquinolines	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tetralins	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Tetrapyrroles and derivatives	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Thiocarbonyl compounds	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1	1	1	0	1	1
+Thioethers	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Thiophenes	0	0	0	0	1	1	1	0	0	1	0	0	1	1	0	1	0	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	0	0	1	0	0	0
+Triazines	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Triazolopyrimidines	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+unclassified	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1

@@ -1,0 +1,115 @@
+Classes	Ionization mode
+(5'->5')-dinucleotides	both
+5'-deoxyribonucleosides	both
+Alkyl halides	both
+Allyl-type 1,3-dipolar organic compounds	both
+Aryl halides	both
+Azacyclic compounds	both
+Azoles	both
+Benzene and substituted derivatives	both
+Benzimidazoles	both
+Benzodioxoles	both
+Benzopyrans	both
+Benzothiazoles	both
+Biotin and derivatives	both
+Boronic acid derivatives	both
+Carboxylic acids and derivatives	both
+Cinnamic acids and derivatives	both
+Coumarins and derivatives	both
+Diazines	both
+Fatty Acyls	both
+Flavonoids	both
+Furanoid lignans	both
+Glycerolipids	both
+Glycerophospholipids	both
+Heteroaromatic compounds	both
+Imidazopyrimidines	both
+Imidolactams	both
+Indoles and derivatives	both
+Isocoumarins and derivatives	both
+Isoflavonoids	both
+Isoindoles and derivatives	both
+Lactams	both
+Lignan glycosides	both
+Macrolactams	both
+Naphthalenes	both
+Organic carbonic acids and derivatives	both
+Organic phosphoric acids and derivatives	both
+Organic sulfonic acids and derivatives	both
+Organic sulfuric acids and derivatives	both
+Organic thiophosphoric acids and derivatives	both
+Organochlorides	both
+Organonitrogen compounds	both
+Organooxygen compounds	both
+Oxacyclic compounds	both
+Oxanes	both
+Peptidomimetics	both
+Phenanthrenes and derivatives	both
+Phenol ethers	both
+Phenols	both
+Prenol lipids	both
+Pteridines and derivatives	both
+Purine nucleosides	both
+Purine nucleotides	both
+Pyrans	both
+Pyridines and derivatives	both
+Pyrimidine nucleosides	both
+Pyrimidine nucleotides	both
+Quinolines and derivatives	both
+Saccharolipids	both
+Sphingolipids	both
+Steroids and steroid derivatives	both
+Tetrahydrofurans	both
+Tetrahydroisoquinolines	both
+Tetrapyrroles and derivatives	both
+Thioethers	both
+Thiophenes	both
+unclassified	both
+(3'->5')-dinucleotides and analogues	neg
+2-arylbenzofuran flavonoids	neg
+Arylnaphthalene lignans	neg
+Azaphilones	neg
+Benzofurans	neg
+Depsides and depsidones	neg
+Diarylheptanoids	neg
+Dibenzylbutane lignans	neg
+Dithioles	neg
+Halohydrins	neg
+Hydroxy acids and derivatives	neg
+Keto acids and derivatives	neg
+Lactones	neg
+Linear 1,3-diarylpropanoids	neg
+Oxepanes	neg
+Oxocins	neg
+Phenylpropanoic acids	neg
+Pyrroles	neg
+Pyrrolidines	neg
+Stilbenes	neg
+Tannins	neg
+Tetralins	neg
+Anthracenes	pos
+Azolidines	pos
+Benzothiadiazoles	pos
+Borinic acid derivatives	pos
+Diazanaphthalenes	pos
+Diazinanes	pos
+Furans	pos
+Lignan lactones	pos
+Macrolides and analogues	pos
+Metalloheterocyclic compounds	pos
+Naphthopyrans	pos
+Organic metal salts	pos
+Organic phosphonic acids and derivatives	pos
+Organofluorides	pos
+Organothiophosphorus compounds	pos
+Oxazinanes	pos
+Piperidines	pos
+Propargyl-type 1,3-dipolar organic compounds	pos
+Quinolizines	pos
+Sulfenyl compounds	pos
+Sulfinyl compounds	pos
+Sulfonyls	pos
+Sulfoxides	pos
+Thiocarbonyl compounds	pos
+Triazines	pos
+Triazolopyrimidines	pos
