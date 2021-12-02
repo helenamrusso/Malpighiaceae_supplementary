@@ -26,5 +26,5 @@ Contains an R script used to determine the statistically significant classes in 
 ## Heatmaps
 Contains a CANOPUS classlist containing the statistically relevant classes, a Malpighiaceae phylogeny file, a feature table (cutoff1000) with the statistically significant classes, and a jupyter notebook for the heatmaps construction.
 
-## Formating tables for MLE - presence/absence
-
+## Tables for MLE - presence/absence
+Contains the tables of classification counts obtained for the positive and negative ionization modes, and a Jupyter notebook to convert them to binary and combine the classifications obtained in both ionization modes. Output files are the final presence/absence table and the ionization modes in which class was retrieved.
